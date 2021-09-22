@@ -1,0 +1,3 @@
+Terminal Crtl + alt + '
+Executar Crtl + alt + n
+code nomedoarquivo.js (cria um arquivo)
